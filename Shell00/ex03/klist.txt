@@ -1,0 +1,6 @@
+[200~Credentials cache: API:86EE5EEB-3619-4E2F-A3D0-9B9F80BFD83B
+        Principal: seojung@42SEOUL.KR
+
+  Issued                Expires               Principal
+Sep  6 14:29:26 2021  Sep  7 00:29:26 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
+Sep  6 14:29:28 2021  Sep  7 00:29:26 2021  HTTP/student-storage.42seoul.kr@42SEOUL.KR~
